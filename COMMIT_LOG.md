@@ -255,3 +255,4 @@
 ## 2020-03-28 14:52:55 - feat(docs): create docs handler (4/20)
 ## 2020-04-05 21:58:39 - feat(security): add security endpoint (1/20)
 ## 2020-05-17 11:49:29 - feat(db): add db support (20/20)
+## 2020-05-30 16:28:56 - feat(ci): create ci handler (16/20)
