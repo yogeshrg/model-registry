@@ -5,3 +5,4 @@
 ## 2020-05-17 11:49:29 - feat(db): add db support (20/20)
 ## 2020-05-30 16:28:56 - feat(ci): create ci handler (16/20)
 ## 2020-05-30 16:43:14 - feat(alert): implement alert module (18/20)
+## 2020-06-07 17:24:07 - feat(config): add config support (15/20)
