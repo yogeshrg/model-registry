@@ -258,3 +258,4 @@
 ## 2020-05-30 16:28:56 - feat(ci): create ci handler (16/20)
 ## 2020-05-30 16:43:14 - feat(alert): implement alert module (18/20)
 ## 2020-06-07 17:24:07 - feat(config): add config support (15/20)
+## 2020-06-27 16:40:44 - feat(docs): add docs support (8/20)
