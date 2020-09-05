@@ -134,3 +134,4 @@
 ## 2020-06-07 17:24:07 - feat(config): add config support (15/20)
 ## 2020-06-27 16:40:44 - feat(docs): add docs support (8/20)
 ## 2020-08-07 19:33:16 - feat(auth): add auth endpoint
+## 2020-09-05 12:54:58 - feat(cache): create cache handler (6/20)
