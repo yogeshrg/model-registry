@@ -136,3 +136,4 @@
 ## 2020-08-07 19:33:16 - feat(auth): add auth endpoint
 ## 2020-09-05 12:54:58 - feat(cache): create cache handler (6/20)
 ## 2020-10-24 09:32:32 - feat(api): create api handler (18/20)
+## 2020-10-25 11:59:52 - feat(ci): add ci endpoint (14/20)
