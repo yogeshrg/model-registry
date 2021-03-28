@@ -266,3 +266,4 @@
 ## 2020-11-17 10:15:28 - feat(config): add config endpoint
 ## 2020-11-29 20:57:42 - feat(config): implement config feature (19/20)
 ## 2021-01-31 23:04:11 - feat(auth): add auth endpoint (12/20)
+## 2021-03-28 16:01:05 - feat(data): implement data feature (20/20)
