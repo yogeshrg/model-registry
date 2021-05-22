@@ -270,3 +270,4 @@
 ## 2021-05-08 11:52:51 - feat(core): create core handler (15/20)
 ## 2021-05-08 17:32:28 - feat(build): implement build module (11/20)
 ## 2021-05-09 12:55:07 - feat(docs): implement docs feature (10/20)
+## 2021-05-22 19:05:42 - feat(db): implement db module (9/20)
