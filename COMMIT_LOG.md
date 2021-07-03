@@ -20,3 +20,4 @@
 ## 2021-05-09 12:55:07 - feat(docs): implement docs feature (10/20)
 ## 2021-05-22 19:05:42 - feat(db): implement db module (9/20)
 ## 2021-06-12 20:13:22 - feat(data): add data support (17/20)
+## 2021-07-03 10:56:13 - feat(queue): implement queue feature (18/20)
