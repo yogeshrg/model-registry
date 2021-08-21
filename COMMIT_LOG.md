@@ -23,3 +23,4 @@
 ## 2021-07-03 10:56:13 - feat(queue): implement queue feature (18/20)
 ## 2021-07-18 12:21:07 - feat(config): implement config feature (12/20)
 ## 2021-08-16 20:34:46 - feat(docs): add docs support
+## 2021-08-21 23:40:41 - feat(model): implement model module (6/20)
