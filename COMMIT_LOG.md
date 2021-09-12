@@ -25,3 +25,4 @@
 ## 2021-08-16 20:34:46 - feat(docs): add docs support
 ## 2021-08-21 23:40:41 - feat(model): implement model module (6/20)
 ## 2021-09-12 14:08:47 - feat(config): create config handler (16/20)
+## 2021-09-12 19:29:28 - feat(config): implement config module (12/20)
