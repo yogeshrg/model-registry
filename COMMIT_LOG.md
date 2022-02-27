@@ -281,3 +281,4 @@
 ## 2022-02-13 14:16:25 - feat(model): implement model module (9/20)
 ## 2022-02-20 15:30:12 - feat(test): add test endpoint (3/20)
 ## 2022-02-20 19:39:06 - feat(ci): implement ci module (19/20)
+## 2022-02-27 11:14:26 - feat(worker): add worker endpoint (16/20)
