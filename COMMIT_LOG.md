@@ -285,3 +285,4 @@
 ## 2022-03-13 12:47:29 - feat(monitor): implement monitor module (3/20)
 ## 2022-03-13 21:37:24 - feat(docs): add docs endpoint (19/20)
 ## 2022-04-24 23:18:17 - feat(ci): implement ci feature (14/20)
+## 2022-05-14 14:47:05 - feat(deploy): add deploy support (8/20)
