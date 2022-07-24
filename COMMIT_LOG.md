@@ -38,3 +38,4 @@
 ## 2022-05-22 20:36:56 - feat(docs): implement docs module (6/20)
 ## 2022-06-25 12:28:39 - feat(alert): implement alert module (7/20)
 ## 2022-06-26 15:04:34 - feat(security): implement security feature (2/20)
+## 2022-07-24 22:16:56 - feat(auth): add auth support (12/20)
