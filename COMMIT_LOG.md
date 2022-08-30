@@ -166,3 +166,4 @@
 ## 2022-06-26 15:04:34 - feat(security): implement security feature (2/20)
 ## 2022-07-24 22:16:56 - feat(auth): add auth support (12/20)
 ## 2022-08-06 18:23:50 - feat(metric): add metric support (11/20)
+## 2022-08-30 22:21:43 - feat(infra): create infra handler
