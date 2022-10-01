@@ -293,3 +293,4 @@
 ## 2022-07-24 22:16:56 - feat(auth): add auth support (12/20)
 ## 2022-08-06 18:23:50 - feat(metric): add metric support (11/20)
 ## 2022-08-30 22:21:43 - feat(infra): create infra handler
+## 2022-10-01 19:20:10 - feat(infra): implement infra feature (11/20)
