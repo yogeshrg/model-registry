@@ -169,3 +169,4 @@
 ## 2022-08-30 22:21:43 - feat(infra): create infra handler
 ## 2022-10-01 19:20:10 - feat(infra): implement infra feature (11/20)
 ## 2022-10-08 10:03:09 - feat(metric): create metric handler (13/20)
+## 2022-10-09 21:52:53 - feat(cache): implement cache feature (8/20)
