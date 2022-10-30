@@ -45,3 +45,4 @@
 ## 2022-10-08 10:03:09 - feat(metric): create metric handler (13/20)
 ## 2022-10-09 21:52:53 - feat(cache): implement cache feature (8/20)
 ## 2022-10-12 13:52:05 - feat(infra): implement infra module
+## 2022-10-30 16:35:00 - feat(data): implement data module (9/20)
