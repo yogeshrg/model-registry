@@ -50,3 +50,4 @@
 ## 2022-12-18 10:38:46 - feat(docs): add docs support (7/20)
 ## 2023-01-01 18:18:34 - feat(deploy): implement deploy module (14/20)
 ## 2023-02-11 10:29:07 - feat(core): add core endpoint (8/20)
+## 2023-02-11 10:52:54 - feat(queue): add queue endpoint (19/20)
