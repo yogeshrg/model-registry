@@ -177,3 +177,4 @@
 ## 2023-01-01 18:18:34 - feat(deploy): implement deploy module (14/20)
 ## 2023-02-11 10:29:07 - feat(core): add core endpoint (8/20)
 ## 2023-02-11 10:52:54 - feat(queue): add queue endpoint (19/20)
+## 2023-02-12 20:58:49 - feat(queue): add queue support (9/20)
