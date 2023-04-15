@@ -54,3 +54,4 @@
 ## 2023-02-12 20:58:49 - feat(queue): add queue support (9/20)
 ## 2023-03-04 20:13:56 - feat(test): add test support (18/20)
 ## 2023-03-11 10:03:59 - feat(config): implement config feature (1/20)
+## 2023-04-15 13:38:50 - feat(model): create model handler (9/20)
