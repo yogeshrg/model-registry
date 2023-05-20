@@ -183,3 +183,4 @@
 ## 2023-04-15 13:38:50 - feat(model): create model handler (9/20)
 ## 2023-04-16 09:35:27 - feat(build): create build handler (14/20)
 ## 2023-04-30 09:19:38 - feat(build): add build support (19/20)
+## 2023-05-20 18:51:30 - feat(docs): create docs handler (11/20)
