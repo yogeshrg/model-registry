@@ -60,3 +60,4 @@
 ## 2023-05-20 18:51:30 - feat(docs): create docs handler (11/20)
 ## 2023-07-15 14:39:02 - feat(api): add api endpoint (9/20)
 ## 2023-07-22 17:08:43 - feat(security): implement security feature (10/20)
+## 2023-07-29 16:26:53 - feat(metric): add metric support (12/20)
