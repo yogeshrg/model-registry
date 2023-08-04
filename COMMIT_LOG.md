@@ -313,3 +313,4 @@
 ## 2023-07-15 14:39:02 - feat(api): add api endpoint (9/20)
 ## 2023-07-22 17:08:43 - feat(security): implement security feature (10/20)
 ## 2023-07-29 16:26:53 - feat(metric): add metric support (12/20)
+## 2023-08-04 09:28:51 - feat(auth): add auth endpoint
