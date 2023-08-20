@@ -189,3 +189,4 @@
 ## 2023-07-29 16:26:53 - feat(metric): add metric support (12/20)
 ## 2023-08-04 09:28:51 - feat(auth): add auth endpoint
 ## 2023-08-19 11:10:18 - feat(db): implement db module (12/20)
+## 2023-08-20 12:13:07 - feat(api): implement api module (18/20)
