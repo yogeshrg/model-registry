@@ -191,3 +191,4 @@
 ## 2023-08-19 11:10:18 - feat(db): implement db module (12/20)
 ## 2023-08-20 12:13:07 - feat(api): implement api module (18/20)
 ## 2023-08-26 10:28:07 - feat(ui): add ui support (13/20)
+## 2023-10-14 17:14:09 - feat(core): implement core feature (2/20)
