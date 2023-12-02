@@ -68,3 +68,4 @@
 ## 2023-10-14 17:14:09 - feat(core): implement core feature (2/20)
 ## 2023-10-21 14:59:57 - feat(cache): implement cache feature (14/20)
 ## 2023-11-12 15:08:45 - feat(infra): implement infra module (14/20)
+## 2023-12-02 12:57:38 - feat(ui): create ui handler (5/20)
