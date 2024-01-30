@@ -196,3 +196,4 @@
 ## 2023-11-12 15:08:45 - feat(infra): implement infra module (14/20)
 ## 2023-12-02 12:57:38 - feat(ui): create ui handler (5/20)
 ## 2023-12-03 12:18:36 - feat(queue): add queue support (17/20)
+## 2024-01-30 21:53:04 - feat(queue): add queue endpoint
