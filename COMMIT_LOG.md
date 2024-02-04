@@ -197,3 +197,4 @@
 ## 2023-12-02 12:57:38 - feat(ui): create ui handler (5/20)
 ## 2023-12-03 12:18:36 - feat(queue): add queue support (17/20)
 ## 2024-01-30 21:53:04 - feat(queue): add queue endpoint
+## 2024-02-04 19:58:12 - feat(worker): add worker support (12/20)
