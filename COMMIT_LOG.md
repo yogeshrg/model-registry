@@ -200,3 +200,4 @@
 ## 2024-02-04 19:58:12 - feat(worker): add worker support (12/20)
 ## 2024-02-04 23:05:31 - feat(api): implement api module (7/20)
 ## 2024-05-07 16:49:08 - feat(db): create db handler
+## 2024-05-25 16:44:00 - feat(api): implement api module (16/20)
