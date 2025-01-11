@@ -341,3 +341,4 @@
 ## 2024-12-07 16:34:26 - feat(api): add api support (16/20)
 ## 2024-12-08 13:14:37 - feat(log): add log endpoint (6/20)
 ## 2024-12-22 21:05:51 - feat(security): add security endpoint (13/20)
+## 2025-01-11 15:02:24 - feat(data): add data support (2/20)
