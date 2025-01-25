@@ -217,3 +217,4 @@
 ## 2024-12-22 21:05:51 - feat(security): add security endpoint (13/20)
 ## 2025-01-11 15:02:24 - feat(data): add data support (2/20)
 ## 2025-01-11 19:11:12 - feat(docs): add docs support (20/20)
+## 2025-01-25 16:45:20 - feat(api): add api support (9/20)
