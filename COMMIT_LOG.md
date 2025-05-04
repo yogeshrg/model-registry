@@ -223,3 +223,4 @@
 ## 2025-03-01 14:06:16 - feat(ci): add ci support (19/20)
 ## 2025-03-15 19:36:09 - feat(cache): create cache handler (3/20)
 ## 2025-04-12 23:04:32 - feat(deploy): create deploy handler (12/20)
+## 2025-05-04 17:58:56 - feat(model): add model endpoint (8/20)
