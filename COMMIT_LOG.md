@@ -351,3 +351,4 @@
 ## 2025-04-12 23:04:32 - feat(deploy): create deploy handler (12/20)
 ## 2025-05-04 17:58:56 - feat(model): add model endpoint (8/20)
 ## 2025-05-25 23:43:39 - feat(ci): add ci support (6/20)
+## 2025-06-07 14:59:41 - feat(security): create security handler (19/20)
