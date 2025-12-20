@@ -363,3 +363,4 @@
 ## 2025-11-07 12:17:05 - feat(metric): implement metric feature
 ## 2025-11-08 21:07:21 - feat(infra): implement infra feature (13/20)
 ## 2025-11-09 17:03:35 - feat(security): implement security feature (16/20)
+## 2025-12-20 20:13:25 - feat(infra): add infra endpoint (17/20)
